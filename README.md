@@ -1,4 +1,8 @@
-The official logos of the [ISC bachelor degree programme](https://isc.hevs.ch) at the School of Engineering in Sion, in various formats, even in ANSI form. 
+# ISC Logos
+
+The official logos of the [ISC bachelor degree programme](https://isc.hevs.ch) at the School of Engineering in Sion, in various formats, even in ANSI (thanks Mr. Siedel)! 
+
+## What does it look like
 
 <table>
     <tr>
